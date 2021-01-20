@@ -1,0 +1,37 @@
+* {
+    font-family: "Calibri", "Trebuchet", "Arial", sans-serif;
+    background-color: rgb(238, 231, 220);
+    color: black;
+    margin-left: 20px;
+}
+
+table {
+    border-collapse: separate;
+    border: 3px solid green;
+    }
+
+td {
+    border: 1px solid green;
+}
+
+.code {
+    background-color: white;
+    color: blue;
+    font-family: monospace;
+}
+
+.def1 {
+    font-weight: bold;
+    color: green;
+
+}
+
+.def2 {
+    font-weight: bold;
+    color:darkgreen;
+}
+
+.strong {
+    font-weight: bold;
+
+}
